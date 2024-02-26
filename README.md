@@ -32,3 +32,8 @@ Beep baseball, also known as blind baseball, is an adaptive version of tradition
 ## Benefits
 
 Beep baseball provides individuals who are blind or visually impaired with an opportunity to participate in a team sport, promoting physical activity, teamwork, and social interaction. It requires a combination of auditory skills, spatial awareness, and physical coordination, making it both challenging and rewarding for players.
+
+
+Now let's dive into the stats a bit.
+
+After viewing the dataset we can see that there are roughly 
